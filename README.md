@@ -70,13 +70,13 @@ Includes:
 - Macro factors like inflation, interest rate, and yield can be compared by house type
 
 ## Files in This Repository
-- `powerbi/Housing_Market_Analysis.pbix`
+- `powerbi/dashboard.md`
 - `docs/data_dictionary.md`
 - `docs/dax_measures.md`
 - `docs/insights.md`
-- `assets/dashboard_page1.png`
-- `assets/dashboard_page2.png`
-- `assets/dashboard_page3.png`
+- `assets/page1.png`
+- `assets/page2.png`
+- `assets/page3.png`
 
 ## How to Use
 1. Open the `.pbix` file in Power BI Desktop.
