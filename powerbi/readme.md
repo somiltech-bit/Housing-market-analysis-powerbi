@@ -22,7 +22,7 @@ Steps:
 
 🔗 Dashboard Link:
 
-[[Click here to download](https://app.powerbi.com/groups/me/reports/e439b517-2912-43b0-b178-77a1e460d2b4/80acd610e3768c0c3260?experience=power-bi)]
+[[Click here to see](https://app.powerbi.com/groups/me/reports/e439b517-2912-43b0-b178-77a1e460d2b4/80acd610e3768c0c3260?experience=power-bi)]
 
 Note:
 The dashboard may require permission to access depending on Power BI workspace settings.
