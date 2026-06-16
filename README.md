@@ -1,4 +1,4 @@
-# Housing-market-analysis-powerbi# Housing Market Analysis Dashboard
+# Housing Market Analysis Dashboard
 
 ## Project Overview
 This project is a Power BI dashboard built on a housing dataset of 100,000 rows to analyze house prices, sales trends, regional performance, and property characteristics. The dashboard was designed to help understand how purchase price, offer price, house type, region, and time-based factors influence the housing market.
